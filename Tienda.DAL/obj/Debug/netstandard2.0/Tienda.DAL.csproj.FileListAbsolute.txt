@@ -1,0 +1,12 @@
+C:\Proyectos\Tienda\Tienda.DAL\bin\Debug\netstandard2.0\Tienda.COMMON.dll
+C:\Proyectos\Tienda\Tienda.DAL\obj\Debug\netstandard2.0\Tienda.DAL.csprojResolveAssemblyReference.cache
+C:\Proyectos\Tienda\Tienda.DAL\obj\Debug\netstandard2.0\Tienda.DAL.csproj.CoreCompileInputs.cache
+C:\Proyectos\Tienda\Tienda.DAL\obj\Debug\netstandard2.0\Tienda.DAL.AssemblyInfoInputs.cache
+C:\Proyectos\Tienda\Tienda.DAL\obj\Debug\netstandard2.0\Tienda.DAL.AssemblyInfo.cs
+C:\Proyectos\Tienda\Tienda.DAL\bin\Debug\netstandard2.0\Tienda.DAL.deps.json
+C:\Proyectos\Tienda\Tienda.DAL\bin\Debug\netstandard2.0\Tienda.DAL.dll
+C:\Proyectos\Tienda\Tienda.DAL\bin\Debug\netstandard2.0\Tienda.DAL.pdb
+C:\Proyectos\Tienda\Tienda.DAL\bin\Debug\netstandard2.0\Tienda.COMMON.pdb
+C:\Proyectos\Tienda\Tienda.DAL\obj\Debug\netstandard2.0\Tienda.DAL.csproj.CopyComplete
+C:\Proyectos\Tienda\Tienda.DAL\obj\Debug\netstandard2.0\Tienda.DAL.dll
+C:\Proyectos\Tienda\Tienda.DAL\obj\Debug\netstandard2.0\Tienda.DAL.pdb

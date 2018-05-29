@@ -1,0 +1,9 @@
+C:\Proyectos\Tienda\Tienda.COMMON\bin\Debug\netstandard2.0\Tienda.COMMON.deps.json
+C:\Proyectos\Tienda\Tienda.COMMON\bin\Debug\netstandard2.0\Tienda.COMMON.dll
+C:\Proyectos\Tienda\Tienda.COMMON\obj\Debug\netstandard2.0\Tienda.COMMON.csprojResolveAssemblyReference.cache
+C:\Proyectos\Tienda\Tienda.COMMON\obj\Debug\netstandard2.0\Tienda.COMMON.csproj.CoreCompileInputs.cache
+C:\Proyectos\Tienda\Tienda.COMMON\obj\Debug\netstandard2.0\Tienda.COMMON.AssemblyInfoInputs.cache
+C:\Proyectos\Tienda\Tienda.COMMON\obj\Debug\netstandard2.0\Tienda.COMMON.AssemblyInfo.cs
+C:\Proyectos\Tienda\Tienda.COMMON\bin\Debug\netstandard2.0\Tienda.COMMON.pdb
+C:\Proyectos\Tienda\Tienda.COMMON\obj\Debug\netstandard2.0\Tienda.COMMON.dll
+C:\Proyectos\Tienda\Tienda.COMMON\obj\Debug\netstandard2.0\Tienda.COMMON.pdb

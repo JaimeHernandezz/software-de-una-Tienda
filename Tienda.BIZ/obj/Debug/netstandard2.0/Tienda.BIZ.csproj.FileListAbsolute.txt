@@ -1,0 +1,14 @@
+C:\Proyectos\Tienda\Tienda.BIZ\bin\Debug\netstandard2.0\Tienda.COMMON.dll
+C:\Proyectos\Tienda\Tienda.BIZ\bin\Debug\netstandard2.0\Tienda.DAL.dll
+C:\Proyectos\Tienda\Tienda.BIZ\obj\Debug\netstandard2.0\Tienda.BIZ.csprojResolveAssemblyReference.cache
+C:\Proyectos\Tienda\Tienda.BIZ\obj\Debug\netstandard2.0\Tienda.BIZ.csproj.CoreCompileInputs.cache
+C:\Proyectos\Tienda\Tienda.BIZ\obj\Debug\netstandard2.0\Tienda.BIZ.AssemblyInfoInputs.cache
+C:\Proyectos\Tienda\Tienda.BIZ\obj\Debug\netstandard2.0\Tienda.BIZ.AssemblyInfo.cs
+C:\Proyectos\Tienda\Tienda.BIZ\bin\Debug\netstandard2.0\Tienda.BIZ.deps.json
+C:\Proyectos\Tienda\Tienda.BIZ\bin\Debug\netstandard2.0\Tienda.BIZ.dll
+C:\Proyectos\Tienda\Tienda.BIZ\bin\Debug\netstandard2.0\Tienda.BIZ.pdb
+C:\Proyectos\Tienda\Tienda.BIZ\bin\Debug\netstandard2.0\Tienda.COMMON.pdb
+C:\Proyectos\Tienda\Tienda.BIZ\bin\Debug\netstandard2.0\Tienda.DAL.pdb
+C:\Proyectos\Tienda\Tienda.BIZ\obj\Debug\netstandard2.0\Tienda.BIZ.csproj.CopyComplete
+C:\Proyectos\Tienda\Tienda.BIZ\obj\Debug\netstandard2.0\Tienda.BIZ.dll
+C:\Proyectos\Tienda\Tienda.BIZ\obj\Debug\netstandard2.0\Tienda.BIZ.pdb
